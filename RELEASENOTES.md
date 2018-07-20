@@ -1,5 +1,7 @@
 # Release Notes
 ## EgonsoftHU.Extensions
+### 1.0.1
+- Updated dependency: EgonsoftHU.ObjectExtensions 1.0.1
 ### 1.0.0
 - Initial version.
 ## EgonsoftHU.ObjectExtensions
