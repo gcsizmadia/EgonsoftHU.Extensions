@@ -7,6 +7,7 @@
       - [ObjectExtensions.GetStringValueOrNull(*TSource*) Method](f21b78c8-8378-b55a-181c-31eb23af5d5b.md)
       - [ObjectExtensions.GetValue(*TSource*, *TResult*) Method](e07ed268-c1c2-898e-0ccb-a9a47f587731.md)
       - [ObjectExtensions.GetValueOrDefault(*TSource*, *TResult*) Method](0bc841ee-d223-c234-6d24-97245464dcdc.md)
+      - [ObjectExtensions.IsDefaultValue(*T*) Method](a8698b24-3669-337b-fa7e-7d40957be70b.md)
       - [ObjectExtensions.IsIn Method](c3379487-8164-af44-4e69-d72464a5a07e.md)
         - [ObjectExtensions.IsIn(*T*) Method (*T*, *T*[])](7eee9957-acd0-4dd8-72e5-783d6bffaf5d.md)
         - [ObjectExtensions.IsIn(*T*) Method (*T*, IEqualityComparer(*T*), *T*[])](ef49eb24-6e25-21da-05bf-58d02900c319.md)
